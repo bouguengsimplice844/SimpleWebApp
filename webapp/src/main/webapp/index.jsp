@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1>Currenly no mobile offers in flipkart</h1>   
+         <h1>Flipkart mobile offers will be ended by 10th August</h1>   
 	 
 
     </section>    
